@@ -1,2 +1,2 @@
 # Software Project I
-## pull (fetch + merge) tset
+## pull (fetch + merge) tset.
